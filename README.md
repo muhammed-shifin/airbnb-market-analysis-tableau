@@ -61,10 +61,9 @@ The dashboard focuses on pricing patterns, revenue generation, bedroom distribut
 
 ## 📁 Project Files
 
-* `airbnb_2016_data.csv`
-* The dataset used for this project, airbnb_2016_data.csv, was sourced from Kaggle and contains Airbnb listing and pricing data from 2016. Due to file size limitations, the raw dataset is not included in this repository.
 * Tableau dashboard screenshot
 * README documentation
+* The dataset used for this project, `airbnb_2016_data.csv`, was sourced from Kaggle and contains Airbnb listing and pricing data from 2016. Due to file size limitations, the raw dataset is not included in this repository.
 
 ---
 
